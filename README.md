@@ -98,7 +98,7 @@ Furniture:
 #### 6️⃣ Customers With the Largest Decline
 ##### All top-declining customers belong to the Corporate and Consumer segment:
 
- -Adrian Barton
+- Adrian Barton
 
 - Tamara Chand
 
@@ -109,11 +109,11 @@ Furniture:
 - Michael Paige
 
 #### 💡 Recommendations
-Re-engage top Corporate customers through targeted retention programs.
-Investigate product availability issues for items that dropped to zero sales.
-Increase promotional spending in high-impact states (Wisconsin, Indiana, Oklahoma).
-Revisit Technology category pricing and competitive positioning.
-Improve inventory forecasting to prevent future product-level drops.
+1. Re-engage top Corporate customers through targeted retention programs.
+2. Investigate product availability issues for items that dropped to zero sales.
+3. Increase promotional spending in high-impact states (Wisconsin, Indiana, Oklahoma).
+4. Revisit Technology category pricing and competitive positioning.
+5. Improve inventory forecasting to prevent future product-level drops.
 
 ---
 ### 🔍 Deep Analysis Conclusion: Was the Decline Real or Just an Outlier Effect?
@@ -142,8 +142,9 @@ Improve inventory forecasting to prevent future product-level drops.
 #### ✔️ Final Interpretation
 ##### The decline in 2017 is not a real decline.
 ###### Instead:
-####### - 2016 is an outlier year, and 2017 simply returned to a stable, high-performance baseline.
-####### - This means the business should not treat 2017 as a negative performance year — the true anomaly is the unusually high sales seen in 2016.
+- 2016 is an outlier year, and 2017 simply returned to a stable, high-performance baseline.
+- 
+- This means the business should not treat 2017 as a negative performance year — the true anomaly is the unusually high sales seen in 2016.
 
 👤 Author
 Omar Elrabiey
