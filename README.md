@@ -8,6 +8,8 @@ This project investigates the root causes behind the slight decrease in Central 
 Using Python-based analysis, the project examines trends across states, cities, categories, products, and customers to understand what contributed to the change.
 The analysis also evaluates whether the decline represents a real performance issue or if 2016 was an outlier year.
 
+-----------
+
 ### 💼 Business Problem
 
 Although the Central region reported a -0.22% decrease in sales in 2017, decision-makers need to understand:
@@ -18,6 +20,7 @@ Which customer segments contributed most to the decline
 Identifying the root causes ensures better planning, targeted marketing, and more accurate forecasting.
 
 ---
+
 ### 🧠 Methodology and Skills
 
 #### The analysis was completed entirely in Python, following a structured approach:
