@@ -143,10 +143,7 @@ Furniture:
 ##### The decline in 2017 is not a real decline.
 ###### Instead:
 - 2016 is an outlier year, and 2017 simply returned to a stable, high-performance baseline.
-- 
+ 
 - This means the business should not treat 2017 as a negative performance year — the true anomaly is the unusually high sales seen in 2016.
 
-👤 Author
-Omar Elrabiey
 
-🔗 LinkedIn: https://linkedin.com/in/omarelrabiey
