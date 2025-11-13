@@ -38,50 +38,77 @@ Built comparative visual summaries
 Python · Pandas · Data Visualization · EDA · Root Cause Analysis · Business Insights · Reporting
 
 ---
-Results and Recommendations 📊
-🔹 Key Findings
-1️⃣ Overall Sales
+### Results and Recommendations 📊
+#### 🔹 Key Findings
+
+#### 1️⃣ Overall Sales
+
 Sales of the Central region decreased by -0.22% in 2017 vs 2016.
 
-2️⃣ Top 5 States With Largest Decrease
-Wisconsin
-Indiana
-Oklahoma
-Michigan
-Iowa
+#### 2️⃣ Top 5 States With Largest Decrease
 
-3️⃣ Top 5 Cities With Largest Decrease
-Lafayette
-Detroit
-Franklin
-Noblesville
-Appleton
+- Wisconsin
 
-4️⃣ Category Impact on Sales
-Category	Negative Impact
-Technology	-17,499.95
-Office Supplies	-9,892.74
-Furniture	-7,836.78
-5️⃣ Products With Zero Sales in 2017 (but existed in 2016)
+- Indiana
+
+- Oklahoma
+
+- Michigan
+
+- Iowa
+
+
+#### 3️⃣ Top 5 Cities With Largest Decrease
+- Lafayette
+
+- Detroit
+
+- Franklin
+
+- Noblesville
+
+- Appleton
+
+#### 4️⃣ Category Impact on Sales
+
+- Category	Negative Impact!
+
+- Technology	-17,499.95
+
+- Office Supplies	-9,892.74
+
+- Furniture	-7,836.78
+
+#### 5️⃣ Products With Zero Sales in 2017 (but existed in 2016)
 
 Technology:
-Canon ImageCLASS 2200 Advanced Copier
+- Canon ImageCLASS 2200 Advanced Copier
+
 Office Supplies:
-GBC Ibimaster 500 Manual ProClick Binding System
+- GBC Ibimaster 500 Manual ProClick Binding System
+
 Furniture:
-HON 5400 Series Task Chairs for Big and Tall
-Balt Solid Wood Round Tables
-Chromcraft Bull-Nose Wood Oval Conference Tables & Bases
+- HON 5400 Series Task Chairs for Big and Tall
 
-6️⃣ Customers With the Largest Decline
-All top-declining customers belong to the Corporate and Consumer segment:
-Adrian Barton
-Tamara Chand
-Alejandro Savely
-Laura Armstrong
-Michael Paige
+- Balt Solid Wood Round Tables
 
-💡 Recommendations
+- Chromcraft Bull-Nose Wood Oval Conference Tables & Bases
+
+
+#### 6️⃣ Customers With the Largest Decline
+##### All top-declining customers belong to the Corporate and Consumer segment:
+
+ -Adrian Barton
+
+- Tamara Chand
+
+- Alejandro Savely
+
+- Laura Armstrong
+
+- Michael Paige
+
+#### 💡 Recommendations
 Re-engage top Corporate customers through targeted retention programs.
 Investigate product availability issues for items that dropped to zero sales.
 Increase promotional spending in high-impact states (Wisconsin, Indiana, Oklahoma).
@@ -91,25 +118,32 @@ Improve inventory forecasting to prevent future product-level drops.
 ---
 ### 🔍 Deep Analysis Conclusion: Was the Decline Real or Just an Outlier Effect?
 
+
 ##### A critical question:
 #### Is the 2017 decline an actual drop in performance, or was 2016 an outlier year?
 
-### 📈 Multi-Year Sales Comparison (Central Region)
-Year	Sales
-2014	103,838
-2015	102,874
-2016	147,429
-2017	147,098
+#### 📈 Multi-Year Sales Comparison (Central Region)
+###### Year	Sales
+- 2014:	103,838
+
+- 2015:	102,874
+
+- 2016:	147,429
+
+- 2017:	147,098
+
 #### 🧠 Insight
-2016 shows an abnormally high spike (+43% increase from previous years).
-2017 sales are almost identical to 2016 (only -0.22% difference).
-2017 remains far above historical norms (2014 & 2015).
+- 2016 shows an abnormally high spike (+43% increase from previous years).
+
+- 2017 sales are almost identical to 2016 (only -0.22% difference).
+
+- 2017 remains far above historical norms (2014 & 2015).
 
 #### ✔️ Final Interpretation
-The decline in 2017 is not a real decline.
-Instead:
-2016 is an outlier year, and 2017 simply returned to a stable, high-performance baseline.
-This means the business should not treat 2017 as a negative performance year — the true anomaly is the unusually high sales seen in 2016.
+##### The decline in 2017 is not a real decline.
+###### Instead:
+####### - 2016 is an outlier year, and 2017 simply returned to a stable, high-performance baseline.
+####### - This means the business should not treat 2017 as a negative performance year — the true anomaly is the unusually high sales seen in 2016.
 
 👤 Author
 Omar Elrabiey
