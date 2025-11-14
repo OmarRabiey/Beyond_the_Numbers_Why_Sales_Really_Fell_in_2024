@@ -1,18 +1,18 @@
-# Breaking the Spike The Real Story Behind Central Sales Decline 
-A data-driven root cause analysis using Python to understand the 2017 sales decline in the Central region, uncover product, category, and customer-level issues, and evaluate whether 2016 was an outlier year.
+# Beyond the Numbers: Why Sales Really Fell 2024
+A data-driven root cause analysis using Python to understand the 2024 sales decline in the Central region, uncover product, category, and customer-level issues, and evaluate whether 2023 was an outlier year.
 
- ## Root Cause Analysis of Central Region Sales Decline (2017 vs 2016) 📉
+ ## Root Cause Analysis of Central Region Sales Decline (2024 vs 2023) 📉
  ### Executive Summary 🧭
 
-This project investigates the root causes behind the slight decrease in Central region sales in 2017 compared to 2016.
+This project investigates the root causes behind the slight decrease in Central region sales in 2024 compared to 2023.
 Using Python-based analysis, the project examines trends across states, cities, categories, products, and customers to understand what contributed to the change.
-The analysis also evaluates whether the decline represents a real performance issue or if 2016 was an outlier year.
+The analysis also evaluates whether the decline represents a real performance issue or if 2023 was an outlier year.
 
 -----------
 
 ### 💼 Business Problem
 
-Although the Central region reported a -0.22% decrease in sales in 2017, decision-makers need to understand:
+Although the Central region reported a -0.22% decrease in sales in 2024, decision-makers need to understand:
 What factors drove the decline
 Which states, cities, categories, and products were impacted
 Whether the drop reflects a real business issue or simply statistical noise
@@ -31,9 +31,9 @@ Identifying the root causes ensures better planning, targeted marketing, and mor
 4. Grouped sales by year, region, state, city, category, product, and customer
 5. Calculated year-over-year changes
 6. Root Cause Identification
-7. Compared 2016 vs 2017 performance across all dimensions
+7. Compared 2023 vs 2024 performance across all dimensions
 8. Highlighted top contributors to the decline
-9. Identified products with zero sales in 2017
+9. Identified products with zero sales in 2024
 #### Visual Insights
 - Used Seaborn for charts
 - Built comparative visual summaries
@@ -45,7 +45,7 @@ Python · Pandas · Data Visualization · EDA · Root Cause Analysis · Business
 #### 🔹 Key Findings
 
 #### 1️⃣ Overall Sales
-Sales of the Central region decreased by -0.22% in 2017 vs 2016.
+Sales of the Central region decreased by -0.22% in 2024 vs 2023.
 
 #### 2️⃣ Top 5 States With Largest Decrease
 
@@ -70,7 +70,7 @@ Sales of the Central region decreased by -0.22% in 2017 vs 2016.
 - Office Supplies	-9,892.74
 - Furniture	-7,836.78
 
-#### 5️⃣ Products With Zero Sales in 2017 (but existed in 2016)
+#### 5️⃣ Products With Zero Sales in 2024 (but existed in 2023)
 
 Technology:
 - Canon ImageCLASS 2200 Advanced Copier
@@ -105,24 +105,24 @@ Furniture:
 
 
 ##### A critical question:
-#### Is the 2017 decline an actual drop in performance, or was 2016 an outlier year?
+#### Is the 2024 decline an actual drop in performance, or was 2023 an outlier year?
 
 #### 📈 Multi-Year Sales Comparison (Central Region)
 ###### Year	Sales
-- 2014:	103,838
-- 2015:	102,874
-- 2016:	147,429
-- 2017:	147,098
+- 2021:	103,838
+- 2022:	102,874
+- 2023:	147,429
+- 2024:	147,098
 
 #### 🧠 Insight
-- 2016 shows an abnormally high spike (+43% increase from previous years).
-- 2017 sales are almost identical to 2016 (only -0.22% difference).
-- 2017 remains far above historical norms (2014 & 2015).
+- 2023 shows an abnormally high spike (+43% increase from previous years).
+- 2024 sales are almost identical to 2023 (only -0.22% difference).
+- 2024 remains far above historical norms (2021 & 2022).
 
 #### ✔️ Final Interpretation
-##### The decline in 2017 is not a real decline.
+##### The decline in 2024 is not a real decline.
 ###### Instead:
-- 2016 is an outlier year, and 2017 simply returned to a stable, high-performance baseline.
-- This means the business should not treat 2017 as a negative performance year — the true anomaly is the unusually high sales seen in 2016.
+- 2023 is an outlier year, and 2024 simply returned to a stable, high-performance baseline.
+- This means the business should not treat 2024 as a negative performance year — the true anomaly is the unusually high sales seen in 2023.
 
 
